@@ -1,0 +1,16 @@
+#Propose a program to calculate Simple Interest
+
+#Simple Interest = (P x T x R)/100 Where, P is the principal amount T is the time and R is the rate
+
+#Take P, T and R as user inputs.
+
+# Get user input for principal, time, and rate
+principal = float(input("Enter the principal amount: "))
+time = float(input("Enter the time : "))
+rate = float(input("Enter the interest rate: "))
+
+# Calculate simple interest
+simple_interest = (principal * time * rate) / 100
+
+# get the result
+print("Simple Interest is:=", simple_interest)
