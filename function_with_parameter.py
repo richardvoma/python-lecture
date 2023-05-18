@@ -3,7 +3,7 @@
 def course_func(name, age):
     print('my name is', name, '1 am', age, 'yrs old')
 
-
+# call function
 course_func('Richard', 87)
 
 # example2
@@ -14,7 +14,7 @@ def my_credentials(name, address, birthdate):
     print("I live in", address)
     print("i was born on", birthdate)
 
-
+# call function
 my_credentials('Richard', 'allison st mount rainier md', '5/13/1991')
 
 # example 3

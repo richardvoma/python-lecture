@@ -12,5 +12,5 @@ print(my_name())
 def my_proffession():
     print("my name is  Richard, i am a devops engineer")
 
-
+# call function
 print(my_proffession())

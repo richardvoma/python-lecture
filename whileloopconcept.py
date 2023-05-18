@@ -36,7 +36,7 @@ nu = 10
 # Write a program that takes a list of numbers and returns the sum of all the even numbers in the list
 sum = 0
 for i in range(1, 11):
-    sum = sum+i
+    sum = sum-i
 print('the sum of the even number is:', sum)
 
 
