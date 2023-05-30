@@ -1,0 +1,11 @@
+# importing from python_custom_module function
+#import python_custom_modules as custom
+import prime_number as engineer
+# print(custom.my_name("Richard"))
+
+
+# python module to check if a number is even or odd
+# custom.checkeven_odd(9)
+# python module to check if a number is prime or not
+
+print(engineer.is_prime(7))
